@@ -1,0 +1,6 @@
+*   f38b50e docs: merge v1 ke dalan v2 dan menyelesaikan merge conflict
+|\  
+| * 137e902 docs: tambah komentar di v1
+* | 8cdc406 docs: tambah komentar di v2
+|/  
+* 07525fd chore: inisiasi github
